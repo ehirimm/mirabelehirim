@@ -1,0 +1,92 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background: #ebdcf2;
+}
+.tm-header1{
+	padding-top: 3%
+}
+.tm-header2 a{
+		font-family: "Covered By Your Grace", cursive;
+		text-decoration: none;
+		font-size: 50px;
+}
+
+.tm-nav a{
+	font-family: "Covered By Your Grace", cursive;
+	padding-right: 30px;
+	font-size: 25px; 
+	text-decoration: none;
+}
+.tm-nav ul li a{
+	display:inline-block;
+	margin:0px 30px;
+}
+.tm-nav ul li a{
+	padding: 10px 20px;
+	text-decoration-color: #000;
+	line-height: 0px;
+
+}
+.contact-title{
+	margin-top: 300px;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+}
+.contact-body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #89609E;
+	padding: 10px;
+	text-align: justify-all;
+}
+
+.contact-form{
+	margin-top: 500px;
+	color: ##dccaec;
+	font-family: 'Roboto', sans-serif;
+}
+
+.form-input{
+	width:600px;
+	border-bottom:1px 
+	font-size:18px;
+	margin-bottom: 16px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.footer{
+	background-color:rgba(137,96,158,0.7);
+	position: relative; 
+	height: 100px;
+	margin-top:700px;
+}
+.copyright{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	margin-top: -20px;
+}
+.email{
+	text-align: right;
+	font-family: 'Roboto', sans-serif;
+	padding-right: 50px;
+	margin-right: 2px;
+	margin-top: -20px;
+
+}
+
+.resumebtn a {
+  background-color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #89609E;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
